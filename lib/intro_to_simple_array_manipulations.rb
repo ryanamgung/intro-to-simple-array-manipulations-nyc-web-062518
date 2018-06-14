@@ -32,5 +32,6 @@ def using_concat(array1, array2)
   array1.concat(array2)
 end
 
+#inserts the element right before the 4th index 
 def using_insert(array, element)
-  array.insert(3)
+  array.insert(4, element)
