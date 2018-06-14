@@ -8,3 +8,24 @@ def using_unshift(array, string)
   array.unshift(string)
 end
 
+#remove last element
+def using_pop(array)
+  array.pop
+end
+
+#remove last 2 elements
+def pop_with_args(array)
+  array.pop(2)
+end
+
+#remove first element
+def using_shift(array)
+  array.shift
+end
+
+def shift_with_args(array)
+  array.shift(2)
+end
+
+def using_concat(array1, array2)
+  
