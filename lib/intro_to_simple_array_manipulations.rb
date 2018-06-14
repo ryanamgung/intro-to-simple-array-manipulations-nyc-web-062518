@@ -39,10 +39,12 @@ end
 
 #removes any duplicate items from the array
 def using_uniq(array)
+  array.uniq
 end
 
 #returns an array of strings given an array of arrays
 def using_flatten
+  
 end
 
 def using_delete(array, string)
