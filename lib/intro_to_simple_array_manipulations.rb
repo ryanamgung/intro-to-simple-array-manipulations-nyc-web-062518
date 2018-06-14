@@ -36,3 +36,17 @@ end
 def using_insert(array, element)
   array.insert(4, element)
 end
+
+#removes any duplicate items from the array
+def using_uniq(array)
+end
+
+#returns an array of strings given an array of arrays
+def using_flatten
+end
+
+def using_delete(array, string)
+end
+
+def using_delete_at(array, integer)
+
