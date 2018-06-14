@@ -27,5 +27,8 @@ def shift_with_args(array)
   array.shift(2)
 end
 
+#adds contents of array 2 to array 1
 def using_concat(array1, array2)
-  arr
+  array2.concat(array1)
+end
+
