@@ -35,3 +35,4 @@ end
 #inserts the element right before the 4th index 
 def using_insert(array, element)
   array.insert(4, element)
+end
